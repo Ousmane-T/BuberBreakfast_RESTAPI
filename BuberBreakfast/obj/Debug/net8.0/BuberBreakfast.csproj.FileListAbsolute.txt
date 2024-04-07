@@ -27,3 +27,4 @@
 /Users/ousmane/Desktop/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/ref/BuberBreakfast.dll
 /Users/ousmane/Desktop/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.Contracts.dll
 /Users/ousmane/Desktop/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.Contracts.pdb
+/Users/ousmane/Desktop/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.sourcelink.json
